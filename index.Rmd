@@ -1,0 +1,17 @@
+---
+title: "Estadística 1: Trabajos Prácticos"
+---
+
+En éste espacio se comparte el material para los Trabajos Prácticos de Estadística 1:
+
+- Guía de Clase de TP
+- Script para seguir las Clases de TP
+- Ejercicios de TP
+
+Todos los TP se resuelven utilizando **R** y **RStudio**.
+
+
+### Contenidos
+
+- [TP1 EStadística Descriptiva](TP1_descriptiva.html)
+- [Guía de clase TP1 EStadística Descriptiva](TP1_Descriptiva_guia.html)
